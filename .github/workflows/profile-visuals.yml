@@ -1,6 +1,9 @@
 name: Profile visuals
 
 on:
+  push:
+    paths:
+      - '.github/workflows/profile-visuals.yml'
   workflow_dispatch:
   schedule:
     - cron: '23 4 * * *'
