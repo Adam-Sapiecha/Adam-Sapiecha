@@ -9,12 +9,12 @@
 [![Email](https://img.shields.io/badge/Email-334155?style=for-the-badge)](mailto:adam.sapiecha05@gmail.com)
 [![CV](https://img.shields.io/badge/CV-334155?style=for-the-badge)](https://adam-sapiecha.github.io/Portfolio-AdamSapiecha/assets/AdamSapiechaCV.pdf)
 
-## About me
+<details>
+<summary><b>About me</b></summary>
 
 Software engineer in **Warsaw**, studying Computer Science at **PJAIT**. I build backends, automation tools and systems that connect software with hardware.
 
-<details>
-<summary><b>Experience & interests</b></summary>
+**Experience & interests**
 
 - **Samsung R&D:** Python services, embedded-device tooling and Jenkins pipelines.
 - **Fundacja Sorno:** FastAPI backend, web platform and Flutter app for several thousand users.
@@ -24,7 +24,8 @@ Off-screen: sailing, gliding, mountains and hitchhiking.
 
 </details>
 
-## Skills
+<details>
+<summary><b>Skills</b></summary>
 
 ![Python](https://img.shields.io/badge/Python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-282828?style=for-the-badge&logo=rust&logoColor=white)
@@ -41,7 +42,10 @@ Off-screen: sailing, gliding, mountains and hitchhiking.
 ![GCP](https://img.shields.io/badge/GCP-4285f4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0a9edc?style=for-the-badge&logo=pytest&logoColor=white)
 
-## Selected projects
+</details>
+
+<details>
+<summary><b>Selected projects</b></summary>
 
 | Project | Focus |
 | :--- | :--- |
@@ -51,8 +55,7 @@ Off-screen: sailing, gliding, mountains and hitchhiking.
 
 [More projects →](https://adam-sapiecha.github.io/Portfolio-AdamSapiecha/projects.html)
 
-<details>
-<summary><b>🏙️ Contributions in 3D</b></summary>
+**🏙️ Contributions in 3D**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
