@@ -1,8 +1,6 @@
 ![Adam Sapiecha — Software Engineer](./profile-readme/assets/orbits.svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&duration=3000&pause=1100&color=38bdf8&center=true&vCenter=true&width=780&height=48&lines=Python+%2F+Rust+%2F+Linux;Backend+%2B+automation+%2B+distributed+systems" alt="Python / Rust / Linux — backend and automation" width="780" />
-</p>
+
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge)](https://adam-sapiecha.github.io/Portfolio-AdamSapiecha/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge)](https://www.linkedin.com/in/adam-sapiecha-686057314/)
