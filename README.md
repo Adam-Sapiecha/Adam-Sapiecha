@@ -55,12 +55,7 @@ Off-screen: sailing, gliding, mountains and hitchhiking.
 
 [More projects →](https://adam-sapiecha.github.io/Portfolio-AdamSapiecha/projects.html)
 
-**🏙️ Contributions in 3D**
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-view.svg" />
-  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution calendar" width="100%" />
-</picture>
 
 </details>
 
